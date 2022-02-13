@@ -1,5 +1,5 @@
 ### Hello! 👋
-My name is J.P. and I'm a sophomore at the University of Denver, studying for a Bachelor's of Science degree in Computer Science! I have currently accepted a position at Lockheed Martin as a Software Engineer Intern and I will be working there the summer of 2021.
+My name is J.P. and I'm a junior at the University of Denver, studying for a Bachelor's of Science degree in Computer Science! I have currently accepted a position at Lockheed Martin as a Software Engineer Intern and I will be working there the summer of 2021.
 
 ## Current Projects 🔭
 Aside from my academics, I am working on a few personal projects that will hopefully benefit others. One of these projects is a tech startup that I founded called Harvester, which helps small brick-and-mortar businesses get their inventories more exposure on the internet. If you're interested in helping with the project—because I sure could use a few extra hands—contact me via any method below!
