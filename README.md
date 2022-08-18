@@ -1,8 +1,8 @@
 ### Hello! 👋
-My name is J.P. and I'm a junior at the University of Denver, studying for a Bachelor's of Science degree in Computer Science! I'm also a Software Engineer Intern for Lockheed Martin on the Peace Krypton project.
+My name is J.P. and I'm a senior at the University of Denver, studying Computer Science! I'm also a Software Engineer Intern at Lockheed Martin.
 
 ## Current Projects 🔭
-Aside from my academics, I am working on a few personal projects that will hopefully benefit others. One of these projects is a tech startup that I founded called Harvester, which helps small brick-and-mortar businesses get their inventories more exposure on the internet. If you're interested in helping with the project—because I sure could use a few extra hands—contact me via any method below!
+I'm working on a few personal projects that will hopefully benefit others! One of these projects is a tech startup that I founded called Harvester, which helps small brick-and-mortar businesses get their inventories more exposure on the internet. If you're interested in helping with the project—because I sure could use a few extra hands—contact me via any method below!
 
 ## Contact Me 📫
 - LinkedIn: [linkedin.com/in/evansjohnpaul/](https://www.linkedin.com/in/evansjohnpaul/)
