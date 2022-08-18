@@ -1,4 +1,4 @@
-### Hello! 👋
+## Hello! 👋
 My name is J.P. and I'm a senior at the University of Denver, studying Computer Science! I'm also a Software Engineer Intern at Lockheed Martin.
 
 ## Current Projects 🔭
