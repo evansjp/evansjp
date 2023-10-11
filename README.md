@@ -1,8 +1,7 @@
 ## Hello! 👋
-My name is J.P. and I'm a senior at the University of Denver, studying Computer Science! I'm also a Software Engineer Intern at Lockheed Martin.
+My name's JP and I'm more of a hacker than engineer, really. Engineer implies science and calculating and stuff that moves slow. I hate slow.
 
 ## Contact Me 📫
-- LinkedIn: [linkedin.com/in/evansjohnpaul/](https://www.linkedin.com/in/evansjohnpaul/)
 - Email: [jpevans00@gmail.com](mailto:jpevans00@gmail.com)
 
 <!--
