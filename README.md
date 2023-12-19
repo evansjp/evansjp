@@ -1,5 +1,5 @@
 ## Hello! 👋
-My name's JP and I'm more of a hacker than engineer, really. Engineer implies science and calculating and stuff that moves slow. I hate slow.
+My name's JP and I'm more of a hacker than engineer, really.
 
 ## Contact Me 📫
 - Email: [jpevans00@gmail.com](mailto:jpevans00@gmail.com)
