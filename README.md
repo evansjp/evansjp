@@ -1,8 +1,9 @@
-## Hello! 👋
-My name's JP and I'm more of a hacker than engineer, really.
+## Hey! 👋
+I'm JP! Contact me if you wanna reach out.
 
 ## Contact Me 📫
 - Email: [jpevans00@gmail.com](mailto:jpevans00@gmail.com)
+- X: [@evansjohnpaul](https://twitter.com/evansjohnpaul)
 
 <!--
 **evansjp/evansjp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
