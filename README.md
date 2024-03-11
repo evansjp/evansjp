@@ -1,8 +1,7 @@
 ## Hey! 👋
-I'm JP! Contact me if you wanna reach out.
+I'm JP! Shoot me a DM to reach out!
 
 ## Contact Me 📫
-- Email: [jpevans00@gmail.com](mailto:jpevans00@gmail.com)
 - X: [@evansjohnpaul](https://twitter.com/evansjohnpaul)
 
 <!--
